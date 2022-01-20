@@ -153,3 +153,5 @@ Another challenge was our final API we used wasn’t secure, so when we hosted o
 ## Future Features + Key Learning:
 
 I learnt a valuable lesson in teamwork and the pace I can work at when under tight time constraints, but also I learnt to trust in my own capabilities.
+
+Also a massive key learning was Git & Github for version control - our first time practising remote collaboration in this way, good experience.
